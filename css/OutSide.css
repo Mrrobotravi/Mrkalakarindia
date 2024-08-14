@@ -55,6 +55,16 @@
 }
 
 
+@media only screen and (max-width: 600px) {
+    .slider-items img {
+        width: 7% !important;
+        margin: 20px !important;
+    }
+}
+
+
+
+
 
 /* REel   */
 
